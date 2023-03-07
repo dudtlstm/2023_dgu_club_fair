@@ -185,7 +185,6 @@ const Booth = () => {
               <Grid
                 item
                 sx={{
-                  display: 'flex',
                   position: 'relative',
                 }}
               >
