@@ -1,3 +1,14 @@
+import BaekSang from '../../assets/images/Booth/TimeTable/Baeksang.png';
+import MoongGe from '../../assets/images/Booth/TimeTable/Moonge.png';
+import Odc from '../../assets/images/Booth/TimeTable/Odc.png';
+import EumSam from '../../assets/images/Booth/TimeTable/EumSam.png';
+import Ajax from '../../assets/images/Booth/TimeTable/Ajax.png';
+import DooDoomChit from '../../assets/images/Booth/TimeTable/DooDoomChit.png';
+import Arirang from '../../assets/images/Booth/TimeTable/Arirang.png';
+import LikeLionDefault from '../../assets/images/Booth/TimeTable/LikeLionDefault.png';
+import MokMyukSeong from '../../assets/images/Booth/TimeTable/MokMyukSeong.png';
+import PeerlessDun from '../../assets/images/Booth/TimeTable/PeerlessDun.png';
+
 export const clubData9 = [
   {
     id: 1,
@@ -128,70 +139,70 @@ export const testingData10 = [
 export const TIME_DATA_THU = [
   {
     id: 1,
-    logo: '../assets/images/likelion.png',
+    logo: `${BaekSang}`,
     starttime: '13:00',
     endtime: '13:30',
     club: '백상액션',
   },
   {
     id: 2,
-    logo: '../assets/images/likelion.png',
+    logo: `${MoongGe}`,
     starttime: '13:30',
     endtime: '14:00',
     club: '뭉게구름',
   },
   {
     id: 3,
-    logo: '../assets/images/likelion.png',
+    logo: `${BaekSang}`,
     starttime: '14:00',
     endtime: '14:30',
     club: '백상밴드',
   },
   {
     id: 4,
-    logo: '../assets/images/likelion.png',
+    logo: `${LikeLionDefault}`,
     starttime: '14:30',
     endtime: '15:00',
     club: '잼잼',
   },
   {
     id: 5,
-    logo: '../assets/images/likelion.png',
+    logo: `${LikeLionDefault}`,
     starttime: '15:00',
     endtime: '15:30',
     club: '렛츠무드',
   },
   {
     id: 6,
-    logo: '../assets/images/likelion.png',
+    logo: `${Odc}`,
     starttime: '15:30',
     endtime: '16:00',
     club: 'ODC',
   },
   {
     id: 7,
-    logo: '../assets/images/likelion.png',
+    logo: `${EumSam}`,
     starttime: '16:00',
     endtime: '16:30',
     club: '음샘',
   },
   {
     id: 8,
-    logo: '../assets/images/likelion.png',
+    logo: `${Ajax}`,
     starttime: '16:30',
     endtime: '17:00',
     club: 'AJAX',
   },
   {
     id: 9,
-    logo: '../assets/images/likelion.png',
+    logo: `${DooDoomChit}`,
     starttime: '17:00',
     endtime: '17:30',
     club: '두둠칫',
   },
   {
     id: 10,
-    logo: '../assets/images/likelion.png',
+    logo: `${Arirang}`,
     starttime: '17:30',
     endtime: '18:00',
     club: '아리랑',
@@ -201,84 +212,84 @@ export const TIME_DATA_THU = [
 export const TIME_DATA_FRI = [
   {
     id: 1,
-    logo: '../assets/images/likelion.png',
+    logo: `${BaekSang}`,
     starttime: '12:00',
     endtime: '12:30',
     club: '백상밴드',
   },
   {
     id: 2,
-    logo: '../assets/images/likelion.png',
+    logo: `${BaekSang}`,
     starttime: '12:30',
     endtime: '13:00',
     club: '백상액션',
   },
   {
     id: 3,
-    logo: '../assets/images/likelion.png',
+    logo: `${LikeLionDefault}`,
     starttime: '13:00',
     endtime: '13:30',
     club: '잼잼',
   },
   {
     id: 4,
-    logo: '../assets/images/likelion.png',
+    logo: `${MoongGe}`,
     starttime: '13:30',
     endtime: '14:00',
     club: '뭉게구름',
   },
   {
     id: 5,
-    logo: '../assets/images/likelion.png',
+    logo: `${MokMyukSeong}`,
     starttime: '14:00',
     endtime: '14:30',
     club: '목멱성',
   },
   {
     id: 6,
-    logo: '../assets/images/likelion.png',
+    logo: `${Odc}`,
     starttime: '14:30',
     endtime: '15:00',
     club: 'ODC',
   },
   {
     id: 7,
-    logo: '../assets/images/likelion.png',
+    logo: `${PeerlessDun}`,
     starttime: '15:00',
     endtime: '15:30',
     club: '피어리스던',
   },
   {
     id: 8,
-    logo: '../assets/images/likelion.png',
+    logo: `${Arirang}`,
     starttime: '15:30',
     endtime: '16:00',
     club: '아리랑',
   },
   {
     id: 9,
-    logo: '../assets/images/likelion.png',
+    logo: `${LikeLionDefault}`,
     starttime: '16:00',
     endtime: '16:30',
     club: '렛츠무드',
   },
   {
     id: 10,
-    logo: '../assets/images/likelion.png',
+    logo: `${Ajax}`,
     starttime: '16:30',
     endtime: '17:00',
     club: 'AJAX',
   },
   {
     id: 11,
-    logo: '../assets/images/likelion.png',
+    logo: `${DooDoomChit}`,
     starttime: '17:00',
     endtime: '17:30',
     club: '두둠칫',
   },
   {
     id: 12,
-    logo: '../assets/images/likelion.png',
+    logo: `${EumSam}`,
     starttime: '17:30',
     endtime: '18:00',
     club: '음샘',

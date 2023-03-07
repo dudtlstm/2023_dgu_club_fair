@@ -83,7 +83,7 @@ const TimeTable = ({ dateCurrent }) => {
                           : {}
                       }
                     >
-                      <ImageSection src={LIKELION_DGU_Logo} />
+                      <ImageSection src={data.logo} alt="clublogo" />
                     </BoothPerfoLogo>
                     <BoothPerfoText>
                       <BoothTime
@@ -169,7 +169,7 @@ const TimeTable = ({ dateCurrent }) => {
                             : {}
                         }
                       >
-                        <ImageSection src={LIKELION_DGU_Logo} />
+                        <ImageSection src={data.logo} alt="clublogo" />
                       </BoothPerfoLogo>
                       <BoothPerfoText>
                         <BoothTime
