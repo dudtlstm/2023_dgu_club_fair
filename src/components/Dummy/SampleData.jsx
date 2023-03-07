@@ -1,13 +1,13 @@
 import BaekSang from '../../assets/images/Booth/TimeTable/Baeksang.png';
 import MoongGe from '../../assets/images/Booth/TimeTable/Moonge.png';
-import Odc from '../../assets/images/Booth/TimeTable/ODC.jpeg';
-import EumSam from '../../assets/images/Booth/TimeTable/EumSam.jpg';
-import Ajax from '../../assets/images/Booth/TimeTable/AJAX.jpeg';
-import DooDoomChit from '../../assets/images/Booth/TimeTable/DooDoomChit.jpg';
-import Arirang from '../../assets/images/Booth/TimeTable/Arirang.jpg';
+import Odc from '../../assets/images/Booth/TimeTable/Odc.png';
+import EumSam from '../../assets/images/Booth/TimeTable/EumSam.png';
+import Ajax from '../../assets/images/Booth/TimeTable/Ajax.png';
+import DooDoomChit from '../../assets/images/Booth/TimeTable/DooDoomChit.png';
+import Arirang from '../../assets/images/Booth/TimeTable/Arirang.png';
 import LikeLionDefault from '../../assets/images/Booth/TimeTable/LikeLionDefault.png';
 import MokMyukSeong from '../../assets/images/Booth/TimeTable/MokMyukSeong.png';
-import PeerlessDun from '../../assets/images/Booth/TimeTable/PeerlessDun.jpg';
+import PeerlessDun from '../../assets/images/Booth/TimeTable/PeerlessDun.png';
 
 export const clubData9 = [
   {
