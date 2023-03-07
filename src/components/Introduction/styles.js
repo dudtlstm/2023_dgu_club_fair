@@ -80,10 +80,6 @@ const Container = styled.button`
   margin-bottom: 15px;
   cursor: pointer;
   transition: background-color 0.2s ease;
-  &:last-child {
-    margin-right: 0px;
-  }
-
   @media (max-width: 1200px) {
     width: 40%;
     margin-right: 10px;
