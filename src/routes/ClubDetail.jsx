@@ -195,7 +195,11 @@ const ClubDetail = ({ onCategoryChange }) => {
                       <FontAwesomeIcon icon={faPhone} /> : {club.inquiry1}
                     </DetailDesBody>
                     <DetailDesBody>
-                      <FontAwesomeIcon icon={faInstagram} /> : {club.inquiry2}
+                      <FontAwesomeIcon icon={faInstagram} /> :
+                      {" "}
+                      <a href={`https://www.instagram.com/${club.inquiry2.substring(1)}`} target="_blank">
+                        {club.inquiry2}
+                      </a>
                     </DetailDesBody>
                   </ClubDescription>
                 </DesWrapper>
